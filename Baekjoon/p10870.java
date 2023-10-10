@@ -12,7 +12,7 @@ public class p10870 {
             System.out.print(0);
             return;
         }
-        int[] fibo = new int[num + 1];
+        long[] fibo = new long[num + 1];
         fibo[0] = 0;
         fibo[1] = 1;
         for(int i = 2; i < num + 1; i++){
