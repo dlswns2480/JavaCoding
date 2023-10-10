@@ -14,6 +14,8 @@ public class p1758 {
         for(int i = 0; i < n; i++){
             tip[i] = Long.parseLong(br.readLine());
         }
+        
+
 
         Arrays.sort(tip, Collections.reverseOrder());
         Long sum = 0L;
