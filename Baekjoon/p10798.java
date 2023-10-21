@@ -26,4 +26,5 @@ public class p10798 {
         }
         System.out.print(answer);
     }
+
 }
